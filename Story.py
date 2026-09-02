@@ -1,0 +1,15 @@
+name1 = input("Enter the first name: ") 
+adj1 = input("Enter an adjective: ") 
+name2 = input("Enter the second name: ") 
+verb1 = input("Enter a verb: ")
+adj2 = input("Enter another adjective: ")
+adj3 = input("Enter one more adjective: ") 
+
+print(f"Once Upon a time, there was a person named {name1}.") 
+print(f"{name1} was a very {adj1} person.") 
+print(f"One day, {name1} met a person named {name2}.") 
+print(f"{name1} and {name2} decided to {verb1} together.") 
+print(f"They had a {adj2} time and became {adj3} friends.") 
+print(f"From that day on, {name1} and {name2} lived happily ever after.") 
+print(f"THE END") 
+ 
